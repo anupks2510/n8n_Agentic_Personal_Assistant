@@ -13,14 +13,14 @@ It combines automation (n8n) with an interactive web interface (Streamlit) to ha
 
 ## 🖼️ Screenshots
 
+### Streamlit UI 
+
+[n8n Workflow](screenshots/streamlit-ui_screenshot.png)
+
+
 ### n8n Workflow
 
-`![n8n Workflow](screenshots/n8n-workflow.png)`  
-
-
-### Streamlit UI
-
-`![Streamlit Personal Assistant UI](screenshots/streamlit-ui.png)`
+[Streamlit Personal Assistant UI](screenshots/workflow_screenshot.png)
 
 
 
