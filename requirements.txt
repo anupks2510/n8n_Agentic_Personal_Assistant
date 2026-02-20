@@ -1,2 +1,2 @@
-python
-streamli
+requests
+streamlit
