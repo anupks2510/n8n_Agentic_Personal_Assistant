@@ -1,4 +1,5 @@
 # n8n Agentic Personal Assistant
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-app-name.streamlit.app](https://anupks2510-n8n-agentic-personal-assistant-app-wqyifd.streamlit.app/)
 
 An intelligent, agentic personal assistant powered by **n8n** workflows + **Streamlit** UI.  
 It combines automation (n8n) with an interactive web interface (Streamlit) to handle tasks like information lookup, productivity automation, agentic decision-making, and more.
